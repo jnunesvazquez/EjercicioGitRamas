@@ -6,5 +6,6 @@ public class Main {
 	// Código inicial para el ejercicio Git Ramas
         //Segundo commit
         //Vuelta a la clase main
+        //Merge completado
     }
 }
